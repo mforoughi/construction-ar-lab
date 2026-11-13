@@ -1,0 +1,8 @@
+Construction AR Lab — Structure
+
+Extract this ZIP, then copy its CONTENTS into your existing construction-ar-lab repository. Merge directories and replace files when asked. In GitHub Desktop fetch/pull first, commit, then push. Wait for Pages deployment.
+
+Student URL: https://mforoughi.github.io/construction-ar-lab/projects/f7afe3b4-f549-4fd5-97bf-c9c6b450debe/
+Print the NEW sheet: https://mforoughi.github.io/construction-ar-lab/projects/f7afe3b4-f549-4fd5-97bf-c9c6b450debe/print.html
+
+This is a public snapshot. The dashboard stays private. Updating or archiving the dashboard does not remove this published snapshot. Delete projects/f7afe3b4-f549-4fd5-97bf-c9c6b450debe/ from GitHub to remove this copy.
