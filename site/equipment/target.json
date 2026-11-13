@@ -1,0 +1,21 @@
+{
+  "name": "equipment-backhoe-01",
+  "type": "PLANAR",
+  "imagePath": "/construction-ar-lab/equipment/target.png",
+  "properties": {
+    "left": 0,
+    "top": 0,
+    "width": 640,
+    "height": 480,
+    "originalWidth": 640,
+    "originalHeight": 480,
+    "isRotated": false
+  },
+  "metadata": {
+    "alignment": {
+      "scale": 0.05099675475197033,
+      "x": 0,
+      "y": 0
+    }
+  }
+}

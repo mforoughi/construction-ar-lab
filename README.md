@@ -1,2 +1,1 @@
-# construction-ar-lab
-Construction AR Lab student viewer for QR-based sheet and floor AR.
+Construction AR Lab GitHub Pages migration. Source snapshot 17bf41a20d940793274d498c5e57da49f5055767. Student backhoe viewer only. GitHub repo mforoughi/construction-ar-lab created; Pages source main root enabled. Upload blocked until connector granted access. Deploy contents of site/ at repository root. Private dashboard and other models unchanged. Phone AR validation remains required. Build script copies source; rerun qr.cjs plus QR sheet generation after rebuild.
